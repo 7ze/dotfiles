@@ -1,3 +1,3 @@
 # dotfiles
 
-my linux config files
+There is no place like the ~/.
